@@ -1,12 +1,13 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mihunan</h1>
 <h3 align="center">A passionate Spring Boot/React.js developer 👋💻</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihunan" alt="mihunan" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce_Frontend**
 
 - 🌱 I’m currently learning **Spring Boot**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Mihunan](https://github.com/Mihunan)
 
 - 💬 Ask me about **Spring Boot, React**
 
