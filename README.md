@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Spring Boot/React.js developer 👋💻</h3>
 
 
-- 🔭 I’m currently working on **Ecommerce_Frontend**
+- 🔭 I’m currently working on **Hotel Management System Website**
 
 - 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mihunan](https://github.com/Mihunan)
 
-- 💬 Ask me about **Spring Boot, React**
+- 💬 Ask me about **React, Spring Boot**
 
 - 📫 How to reach me **mmihunan@gmail.com**
 
